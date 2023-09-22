@@ -1,5 +1,11 @@
 # Capstone Group Project
 
+The "docs" folder is used to keep a copy of each deliverable submission.
+The “meetings” folder is used to keep a document for each time we
+meet as a team. Create a brief text document in this folder, listing the
+names of the attendees and the agenda of the meeting.
+The "src" folder is used to commit code for the project.
+
 
 
 ## Getting started
